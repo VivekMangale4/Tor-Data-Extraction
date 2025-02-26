@@ -70,7 +70,7 @@ python fetch_table.py
 1. **script1.py**  
    - Connects to the **Tor network** using SOCKS5 proxy (`127.0.0.1:9050`).  
    - Fetches the target `.onion` website's content.  
-   - Extracts relevant **metadata, links, email addresses, and other data**.  
+   - Extracts relevant **metadata, links, Sensitive Info, and other data**.  
    - Stores the extracted data in a **SQLite database**.  
 
 2. **fetch_table.py**  

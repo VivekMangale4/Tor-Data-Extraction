@@ -1,6 +1,3 @@
-Here is the complete **README.md** file in one block:  
-
-```markdown
 # TOR Data Extraction 🚀  
 
 ## **Overview**  
